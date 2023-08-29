@@ -1,4 +1,4 @@
-# HSE (the Beginning of DS and ML.)
+The Beginning of DS and ML.
 This repository is created to showcase a homework assignment for a Russian university's freshman year .
 All projects here are automatically translated from Russian to English.
 
